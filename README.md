@@ -1,5 +1,5 @@
-# Tehran, 4 Emotions Exhibition
-This repository contains images from the "Tehran 4 Senses" exhibition held on Friday, December 22, 2017. I managed this exhibition, and personally designed, printed, and installed the maps. (Read the full story on [this tweet](https://x.com/mohsentaleb/status/1870206782825517287))
+# "Tehran, 4 Emotions" Exhibition
+This repository contains images from the "Tehran, 4 Emotions" exhibition held on Friday, December 22, 2017. I managed this exhibition, and personally designed the maps. (Read the full story on [this tweet](https://x.com/mohsentaleb/status/1870206782825517287))
 
 The exhibition created an interactive experience for visitors by asking them to place colored pins representing emotions (Sadness, Happiness, Love, Fear) on a giant map of Tehran. The aim was to create an emotional map of the city, based on the feelings of those who participated.
 
