@@ -12,7 +12,7 @@ The exhibition created an interactive experience for visitors by asking them to 
 [![Alt text](https://github.com/user-attachments/assets/b7470add-d6c9-4e70-9bf8-244c226cd098)](https://github.com/mohsentaleb/tehran4emotions/blob/main/downloads/tehran4emotions-giga-pixel-map.jpg)
 
 # Into and Highlights Videos
-![Exhibition Poster](https://github.com/mohsentaleb/tehran4emotions/raw/refs/heads/main/media/tehran4emotions-highlights.mov).
+You can watch the videos [from here](https://github.com/mohsentaleb/tehran4emotions/tree/main/media).
 
 ## Exhibition Poster
 ![Exhibition Poster](https://github.com/mohsentaleb/tehran4emotions/blob/69e511527e4603e4c831562418ab21957c40a3a8/poster.jpg).
